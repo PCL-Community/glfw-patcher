@@ -68,25 +68,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.compat-agent [:io.github.pcl_community.Main.main()].executor": "Run",
-    "Gradle.compat-agent [build].executor": "Run",
-    "Gradle.compat-agent [dependencies].executor": "Run",
-    "Gradle.加载 Gradle 依赖项.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHELLCHECK.PATH": "我会在意",
-    "git-widget-placeholder": "正在变基 main",
-    "last_opened_file_path": "/Users/yizhimcqiu/Documents/compat-agent",
-    "onboarding.tips.debug.path": "/Users/yizhimcqiu/Documents/compat-agent/src/main/java/io/github/pcl-community/Main.java",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.compat-agent [:io.github.pcl_community.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.compat-agent [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.compat-agent [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.加载 Gradle 依赖项.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;我会在意&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;正在变基 main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yizhimcqiu/Documents/compat-agent&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yizhimcqiu/Documents/compat-agent/src/main/java/io/github/pcl-community/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
