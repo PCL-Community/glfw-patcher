@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ow2.asm:asm:9.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.ow2.asm" artifactId="asm" version="9.5" baseVersion="9.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.5/dc6ea1875f4d64fbc85e1691c95b96a3d8569c90/asm-9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
