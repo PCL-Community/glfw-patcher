@@ -3,7 +3,6 @@ plugins {
 }
 
 group 'io.github.pcl_community'
-version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
@@ -17,6 +16,11 @@ dependencies {
 }
 
 jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
     manifest {
         attributes(
                 'Main-Class': 'io.github.pcl_community.Main'

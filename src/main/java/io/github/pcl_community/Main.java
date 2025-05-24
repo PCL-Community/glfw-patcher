@@ -25,6 +25,7 @@ public class Main {
         }
 
         String glfwPath = args[0];
+        System.out.println("glfwPath is: " + glfwPath);
 
         try (JarFile jarFile = new JarFile(glfwPath);
              JarOutputStream jos = new JarOutputStream(Files.newOutputStream(TEMP_PATH))
